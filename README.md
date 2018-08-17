@@ -15,6 +15,8 @@ node-red-LED_matrix.json
 
 ## Sensado del ambiente y simulador
 #### Temperatura, humedad y presión
+https://medium.com/@jeancarlbisson/node-red-iot-workshop-using-raspberry-pi-and-sense-hat-sensor-866ae4bcaf4a
+https://github.com/jeancarl/node-red-labs/tree/master/lab-sense-hat/iot-starter
 ```
 Environment-temp_hum_pressure(real_and_simulated).json
 ```
