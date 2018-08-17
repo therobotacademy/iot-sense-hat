@@ -42,8 +42,12 @@ sudo apt-get install python-sense-emu python3-sense-emu python-sense-emu-doc sen
 ```
 
 #### Other platforms
-pip install sense-emu
+```pip install sense-emu```
 #### Upgrade
-pip install -U sense-emu
+```pip install -U sense-emu```
 #### Remove
-pip uninstall sense-emu
+```pip uninstall sense-emu```
+
+## Sensado del ambiente y simulador
+#### Temperatura, humedad y presión
+```Environment-temp_hum_pressure(real_and_simulated).json```
